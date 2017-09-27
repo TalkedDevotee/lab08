@@ -1,4 +1,5 @@
-e4f05f619284db41dcdae940d9d212c8cc39ab8a
+![The Travis Mascot](http://about.travis-ci.org/images/travis-mascot-200px.png)
+
 ## Laboratory work III
 
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
