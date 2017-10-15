@@ -1,4 +1,4 @@
-# The Travis Client [![Build Status](https://travis-ci.org/TalkedDevotee/lab05.svg?branch=master)](https://travis-ci.org/TalkedDevotee/lab05)
+# The Travis Client [![Build Status](https://travis-ci.org/TalkedDevotee/lab06.svg?branch=master)](https://travis-ci.org/TalkedDevotee/lab06)
 ![The Travis Mascot](http://about.travis-ci.org/images/travis-mascot-200px.png)
 
 ## Laboratory work III
